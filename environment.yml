@@ -1,0 +1,6 @@
+name: tf
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+prefix: /home/primary-a/miniconda3/envs/tf
