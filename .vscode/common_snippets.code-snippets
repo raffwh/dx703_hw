@@ -1,0 +1,41 @@
+{
+
+    "code_head1b": {
+    // "scope": "markdown",
+        "prefix": "head_1",
+        "body": [
+            "                ",
+            "#      $1       ",
+            "# ======================================",
+            "# ",
+            ""
+        ],
+        "description": "Additional section label in a python block"
+	},
+
+
+	
+    "comment1": {
+    // "scope": "markdown",
+    "prefix": "comment1",
+    "body": [
+        "####____◄ $1"
+    ],
+    "description": "quick annotation for true commentary, to differentiate with regular commented codes"
+},
+	
+
+
+    "inFucntion_header": {
+    // "scope": "markdown",
+    "prefix": "funcHeader1",
+    "body": [
+        "##_____ $1 _____ ##: $2"
+      
+    ],
+    "description": "quick header for inside a function"
+}
+
+
+
+}
