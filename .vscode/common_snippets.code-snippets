@@ -24,7 +24,14 @@
     "description": "quick annotation for true commentary, to differentiate with regular commented codes"
 },
 	
-
+    "divider": {
+    // "scope": "markdown",
+    "prefix": "divider1",
+    "body": [
+        "#### ----------------------------------------------------- ####"
+    ],
+    "description": "quick divider"
+    },	
 
     "inFucntion_header": {
     // "scope": "markdown",
