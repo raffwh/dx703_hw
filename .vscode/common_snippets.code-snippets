@@ -33,6 +33,14 @@
     "description": "quick divider"
     },	
 
+    "divider_small": {
+    // "scope": "markdown",
+    "prefix": "divider1s",
+    "body": [
+        "##### •••••• ####"
+    ],
+    "description": "quick divider"
+    },	
     "inFucntion_header": {
     // "scope": "markdown",
     "prefix": "funcHeader1",
