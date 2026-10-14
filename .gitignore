@@ -4,3 +4,5 @@ __pycache__/
 *.h5
 data/
 .env
+notebooks/glove.6B/
+notebooks/glove.6B
