@@ -1,3 +1,4 @@
 {
-    "security.workspace.trust.enabled": false
+    "security.workspace.trust.enabled": false,
+    "workbench.tree.indent": 24
 }
